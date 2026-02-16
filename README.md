@@ -1,4 +1,4 @@
-<!-- ## Bruno Soares 
+ <!-- ## Bruno Soares 
  <div>
   <a href="https://github.com/brunosoares99">
 </div>
@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 ###
 
